@@ -1,0 +1,5 @@
+alisce	83
+alice	74
+empty	0
+empty	0
+empty	0
