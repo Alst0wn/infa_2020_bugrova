@@ -1,5 +1,6 @@
 alisce	83
 alice	74
+al	63
 empty	0
 empty	0
 empty	0
